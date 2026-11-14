@@ -11,7 +11,7 @@ repository               : "PortalWhisper/LJT-Homepage"
 
 # Site Author (fields left blank do not appear in the sidebar)
 author:
-  avatar           : "profile.png"
+  avatar           : "favicon.svg"
   name             : "Junteng Liu"
   bio              : "First-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology (HKUST). My research focuses on natural language processing and machine learning."
   location         : "Hong Kong University of Science and Technology"
